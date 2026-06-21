@@ -67,8 +67,8 @@ const contactLinks: ContactLink[] = [
   {
     icon: LinkedInIcon,
     label: "LinkedIn",
-    value: "linkedin.com/in/srijan-s-rao",
-    href: "https://linkedin.com/in/srijan-s-rao/",
+    value: "https://www.linkedin.com/in/srijan-s-rao-1a7b03222/",
+    href: "https://www.linkedin.com/in/srijan-s-rao-1a7b03222/",
     external: true,
   },
   {
